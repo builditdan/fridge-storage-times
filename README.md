@@ -1,8 +1,19 @@
-#AWS Lambda function for Alexa
-A  [AWS Lambda](http://aws.amazon.com/lambda) function that provide food storage guidelines as outlined by the Foodsafety.gov site. See https://www.foodsafety.gov/keep/charts/storagetimes.html for more details.
+#Fridge Storage Times - a AWS Lambda function for Alexa
+A  [AWS Lambda](http://aws.amazon.com/lambda) function that provides food storage guidelines as outlined by the Foodsafety.gov site. See https://www.foodsafety.gov/keep/charts/storagetimes.html for more details.
 
 ## Concepts
-This sample creates a Lambda function for handling Alexa Skill requests that:
+Fridge Storage Times is here to provide guidelines how long food items can be safely kept under refrigeration or frozen. The information was sourced from Foodsafety.gov and covers most common meats, fruits, and vegetables.  
+
+So the next time you are wondering about a food item and how long to keep it. Just ask...
+
+"Alexa ask fridge storage times"
+"Alexa ask fridge storage times how long can I keep leftovers"
+"Alexa ask fridge storage times how long can I keep bok choy"
+"Alexa ask fridge storage times how long can I store chicken"
+
+These are just guidelines and common sense should be followed when handling all food items including following the use-by-date provider by the retailer or manufacturer.
+
+Disclaimer:  Refrigeration guidelines were collected from FoodSafety.gov. In no event will I be liable for any food-born illness, death, or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever in connection with, the use of this Amazon Alexa Skill.
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
