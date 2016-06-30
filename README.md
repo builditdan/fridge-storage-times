@@ -7,8 +7,11 @@ Fridge Storage Times is here to provide guidelines how long food items can be sa
 So the next time you are wondering about a food item and how long to keep it. Just ask...
 
 "Alexa ask fridge storage times"
+
 "Alexa ask fridge storage times how long can I keep leftovers"
+
 "Alexa ask fridge storage times how long can I keep bok choy"
+
 "Alexa ask fridge storage times how long can I store chicken"
 
 These are just guidelines and common sense should be followed when handling all food items including following the use-by-date provider by the retailer or manufacturer.
